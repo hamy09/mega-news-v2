@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     modules: ["@nuxtjs/tailwindcss"],
     runtimeConfig: {
       public: {
-        WP_URL: 'https://baly.online',
+        WP_URL: 'https://mega.newspaper24hr.com',
       },
     },
   });
